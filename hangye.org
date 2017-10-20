@@ -1,20 +1,30 @@
 ﻿* 电子
+  [[http://blog.sina.com.cn/s/blog_c5e1af8c0102xkls.html]]
 ** IC
 *** 设计
 **** IP核
 	 全志科技
 *** 建造
+	中芯国际
 *** 封测
 	三家：长电科技、华天科技、通富微电
 *** IDM
 	华微电子、士兰微
+** 存储器
+   兆易创新
+** 传感器
+   [[http://stock.10jqka.com.cn/20160105/c586890771.shtml]]
+   江苏固锝、士兰微、航天电器
 ** 分立器件
    杨杰科技
 ** FPGA
    紫光国芯
 ** PCB
 *** 覆铜板
+	金安国纪、生益科技(龙头)、超华科技、超声电子
 *** FPC
+	FPC能否替代PCB:[[http://bbs.elecfans.com/jishu_1133665_2_2.html#comment_top]]
+	材料:[[http://www.china-fpc.com/NewsDetails-1779.html]]
 	弘信电子、景旺电子
 ** LED
    15年国内4000亿rmb市场份额
@@ -32,6 +42,12 @@
 	 中颖电子
 **** 面板
 	 深天马、京东方、长信科技
+** 液晶屏幕LCD
+*** 液晶显示模组
+	[[http://www.moqie.com/ArticleView_10436.aspx]]
+	深天马、同兴达、京东方
+*** 偏光片
+	三利普
 * 天然气
 * 5G
 * 机器人
